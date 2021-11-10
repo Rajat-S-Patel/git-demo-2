@@ -4,3 +4,5 @@ This is a change
 
 Another change made in development branch
 Another change in master branch
+
+Added line 8 again
